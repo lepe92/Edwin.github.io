@@ -15,3 +15,13 @@ The full thesis document can be found [here](https://github.com/lepe92/Edwin.git
 
 ### Poster presented on ICANN 2017
 [Poster](https://github.com/lepe92/Edwin.github.io/blob/master/AcademicAndResearch/ICANN_poster.pdf) presented in Alghero, Sardinia, Italy when attended ICANN 2017.
+
+## Presentations
+
+### [Thesis Defense](https://www.slideshare.net/EdwinEfranJimnezLepe/deep-residual-hashing-neural-network-for-image-retrieval-81481601)
+
+### [Conference Machine Learning 101](https://www.slideshare.net/EdwinEfranJimnezLepe/machine-learning-101-81025218)
+
+### [Convolution as matrix multiplication](https://www.slideshare.net/EdwinEfranJimnezLepe/convolution-as-matrix-multiplication)
+
+### [Example of Feedforward and Backpropagation in CNN](https://www.slideshare.net/EdwinEfranJimnezLepe/example-feedforward-backpropagation)
