@@ -19,16 +19,16 @@ The full thesis document can be found [here](https://github.com/lepe92/Edwin.git
 ### Thesis Repository
 The (almost) whole code of the project can be found at this [link](https://github.com/lepe92/DRHN).
 
-### [A beginners tutorial of CNN](https://github.com/lepe92/Edwin.github.io/blob/master/AcademicAndResearch/cnn%20tutorial.pdf)
+### A beginners tutorial of CNN [here](https://github.com/lepe92/Edwin.github.io/blob/master/AcademicAndResearch/cnn%20tutorial.pdf)
 
 ## Presentations
 
-### [Thesis Defense](https://www.slideshare.net/EdwinEfranJimnezLepe/deep-residual-hashing-neural-network-for-image-retrieval-81481601)
+### Thesis Defense[here](https://www.slideshare.net/EdwinEfranJimnezLepe/deep-residual-hashing-neural-network-for-image-retrieval-81481601)
 
-### [Seminar of Machine Learning](https://www.slideshare.net/EdwinEfranJimnezLepe/machine-learning-seminar-106904125)
+### Seminar of Machine Learning [here](https://www.slideshare.net/EdwinEfranJimnezLepe/machine-learning-seminar-106904125)
 
-### [Conference Machine Learning 101](https://www.slideshare.net/EdwinEfranJimnezLepe/machine-learning-101-81025218)
+### Conference Machine Learning 101 [here](https://www.slideshare.net/EdwinEfranJimnezLepe/machine-learning-101-81025218)
 
-### [Convolution as matrix multiplication](https://www.slideshare.net/EdwinEfranJimnezLepe/convolution-as-matrix-multiplication)
+### Convolution as matrix multiplication [here](https://www.slideshare.net/EdwinEfranJimnezLepe/convolution-as-matrix-multiplication)
 
-### [Example of Feedforward and Backpropagation in CNN](https://www.slideshare.net/EdwinEfranJimnezLepe/example-feedforward-backpropagation)
+### Example of Feedforward and Backpropagation in CNN [here](https://www.slideshare.net/EdwinEfranJimnezLepe/example-feedforward-backpropagation)
