@@ -23,6 +23,8 @@ The (almost) whole code of the project can be found at this [link](https://githu
 
 ### [Thesis Defense](https://www.slideshare.net/EdwinEfranJimnezLepe/deep-residual-hashing-neural-network-for-image-retrieval-81481601)
 
+### [Seminar of Machine Learning](https://www.slideshare.net/EdwinEfranJimnezLepe/machine-learning-seminar-106904125)
+
 ### [Conference Machine Learning 101](https://www.slideshare.net/EdwinEfranJimnezLepe/machine-learning-101-81025218)
 
 ### [Convolution as matrix multiplication](https://www.slideshare.net/EdwinEfranJimnezLepe/convolution-as-matrix-multiplication)
