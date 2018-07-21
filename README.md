@@ -19,6 +19,8 @@ The full thesis document can be found [here](https://github.com/lepe92/Edwin.git
 ### Thesis Repository
 The (almost) whole code of the project can be found at this [link](https://github.com/lepe92/DRHN).
 
+### [A beginners tutorial of CNN](https://github.com/lepe92/Edwin.github.io/blob/master/AcademicAndResearch/cnn%20tutorial.pdf)
+
 ## Presentations
 
 ### [Thesis Defense](https://www.slideshare.net/EdwinEfranJimnezLepe/deep-residual-hashing-neural-network-for-image-retrieval-81481601)
