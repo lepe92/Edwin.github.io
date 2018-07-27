@@ -11,7 +11,7 @@ The full thesis document can be found [here](https://github.com/lepe92/Edwin.git
 
 ### Extended Abstract published on Artificial Neural Networks and Machine Learning – ICANN 2017
 26th International Conference on Artificial Neural Networks, Alghero, Italy, September 11-14, 2017, Proceedings, Part II.
-[This](https://github.com/lepe92/Edwin.github.io/blob/master/AcademicAndResearch/DRHN_extended_abstract.pdf) is the extended abstract published, property of [Springer](https://doi.org/10.1007/978-3-319-68612-7).
+This extended abstract is property of [Springer](https://doi.org/10.1007/978-3-319-68612-7).
 
 ### Poster presented on ICANN 2017
 [Poster](https://github.com/lepe92/Edwin.github.io/blob/master/AcademicAndResearch/ICANN_poster.pdf) presented in Alghero, Sardinia, Italy when attended ICANN 2017.
